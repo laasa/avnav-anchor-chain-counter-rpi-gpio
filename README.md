@@ -29,14 +29,13 @@ An example for such an circuit is suggested here: https://pysselilivet.blogspot.
 ![grafik](https://user-images.githubusercontent.com/98450191/153389077-942ecb63-cb50-4e82-a864-6e4f0f91789d.png)
 
 First tests are made with th module BUCCK_817_4_V1.0.
-
-![grafik](https://user-images.githubusercontent.com/98450191/153608792-99a1337d-caae-4a5d-8227-dcfd2a1625f6.png)
+![grafik](https://user-images.githubusercontent.com/98450191/153611941-e6ed298a-06d5-4a33-b4ed-b8fbda8201ec.png)
 
 The reed relais is a brought one:
-![grafik](https://user-images.githubusercontent.com/98450191/153610102-a7032b86-b099-4cb0-8240-e705e8a1149a.png)
+![grafik](https://user-images.githubusercontent.com/98450191/153611712-e395b9f1-18e5-4b43-8a93-baecb4d1e036.png)
 
 All is connected via a 5-pin-socket
-![grafik](https://user-images.githubusercontent.com/98450191/153610412-29df8e1b-9a7c-44ad-b887-7b91a2311fbe.png)
+![grafik](https://user-images.githubusercontent.com/98450191/153611586-a4600594-4ae2-44e7-8802-de87d67da222.png)
 
 
 # Software installation
