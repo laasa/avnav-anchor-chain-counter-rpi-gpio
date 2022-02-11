@@ -13,6 +13,7 @@ It is widely based on the
 
 # Parameter
 
+- circumference: circumference of anchor winch
 - gpio_pulse: Define gpio where read relais is sensed (default is 4 => GPIO4 on pin 7)
 - gpio_up: Define gpio where the up is sensed (default is 17 => GPI17 on pin 11)
 - gpio_down: Define gpio where the up is sensed (default is 27 => GPI27 on pin 13)
