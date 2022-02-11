@@ -14,9 +14,9 @@ It is widely based on the
 # Parameter
 
 - circumference: circumference of anchor winch
-- gpio_pulse: Define gpio where read relais is sensed (default is 4 => GPIO4 on pin 7)
-- gpio_up: Define gpio where the up is sensed (default is 17 => GPI17 on pin 11)
-- gpio_down: Define gpio where the up is sensed (default is 27 => GPI27 on pin 13)
+- gpio_pulse: Define gpio where reed relais is sensed (default is 17 => GPI17 on pin 11)
+- gpio_up: Define gpio where the up is sensed (default is 27 => GPI27 on pin 13)
+- gpio_down: Define gpio where the up is sensed (default is 22 => GPI22 on pin 15)
 - inverted: Define if input signal shall be inverted 0 => not inverted, 1 => Inverted (default is 1)
 - pulldown: Define if using internal RPi pull up/down 0 => No, 1= Pull down, 2=Pull up (default is 2)
 
