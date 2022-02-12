@@ -50,3 +50,5 @@ To install this plugin please
 # Using in anvav
 
 # TODOs
+- reading GPIO in interrupt mode doesn't work 
+   => currently poll mode is implemented with 10 ms
