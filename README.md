@@ -1,7 +1,7 @@
 # avnav-anchor-chain-counter-rpi-gpio
 read the pulses from reed relais on anchor winch via Raspberry PI's GPIO
 
-![grafik](https://user-images.githubusercontent.com/98450191/153688200-45ac0f51-1e21-4386-8822-b122c001be01.png)
+![grafik](https://user-images.githubusercontent.com/98450191/153689785-2802730f-096a-490d-aaaf-1e5c5fca7244.png)
 
 # General
 
