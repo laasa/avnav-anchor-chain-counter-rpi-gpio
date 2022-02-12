@@ -1,5 +1,5 @@
 # avnav-anchor-chain-counter-rpi-gpio
-read the count pulses from reed relais on anchor winch via Raspberry PI's GPIO
+read the pulses from reed relais on anchor winch via Raspberry PI's GPIO
 
 # General
 
@@ -49,6 +49,7 @@ To install this plugin please
 
 # Using in anvav
 
+![grafik](https://user-images.githubusercontent.com/98450191/153686644-1ca811d5-7fd9-44b8-9f00-423363ef2640.png)
+
 # TODOs
-- reading GPIO in interrupt mode doesn't work 
-   => currently poll mode is implemented with 10 ms
+- reading GPIO in interrupt mode doesn't work => currently poll mode is implemented with 10 ms
